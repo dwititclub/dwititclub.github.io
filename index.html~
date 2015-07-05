@@ -21,7 +21,7 @@
 <hr>
 	<ul>
         <li><h3>REQUEST TRACKER (DWIT 2015)</h3></li>
-	<p>username: student &nbsp; password:student</p>
+	<p>username: student &nbsp;| password:student &nbsp;| role: student</p>
         <li><a href="http://192.168.1.47/request_tracker/public/admin/login.php">Request Tracker (Abhishek Gupta)</a></li>
       </ul>
     </div>
